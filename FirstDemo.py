@@ -12,6 +12,18 @@ print(b)
 # print("value is "+b)    will through an error
 
 print("{} {}".format("value is", b))
+print("{} {}".format("value is", b))
+print("{} {}".format("value is", b))
+#Git practice
+#Git practice
+#Git practice
+#Git practice
+
+
+print("{} {}".format("value is", b))
+print("{} {}".format("value is", b))
+print("{} {}".format("value is", b))
+
 
 print(type(b))
 

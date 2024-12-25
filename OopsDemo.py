@@ -3,7 +3,11 @@ class Calculator:
     def __init__(self,a,b):         #constructor
         self.firstNumber=a          #instance variable
         self.SecondNumber=b
-        print("I am called automatically when object is created")
+        print("I am called automatically when object is created1")
+        print("I am called automatically when object is created2")
+        print("I am called automatically when object is created3")
+        print("I am called automatically when object is created4")
+
 
     def getdata(self):
         print("i am now executing as method in class")
